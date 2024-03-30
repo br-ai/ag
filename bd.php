@@ -1,11 +1,11 @@
 <?php
 
 
-    $servername = "localhost";
+    $servername = "192.168.56.133";
 
     $username = "root";
     
-    $password = "";
+    $password = "root";
     
     $dbname = "bd";
 
