@@ -3,9 +3,9 @@
 
     $servername = "192.168.56.133";
 
-    $username = "root";
+    $username = "freakit";
     
-    $password = "root";
+    $password = "freakit";
     
     $dbname = "bd";
 
